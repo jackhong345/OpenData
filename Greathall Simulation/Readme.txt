@@ -4,7 +4,7 @@ into B-format recordings (W, X, Y, and Z channels).
 
 The reason why the B-format recordings are not used is that there are a few 
 audio files encountering problems when being read due to certain flaws of the 
-"audiowrite" function in Matlab R2021a (might also occur in other versions).
+"audiowrite" function in MATLAB R2021a (might also occur in other versions).
 
 Please use the four folders first if you would like to repeat the experiment
 in the paper. If facing problems in reading some audio files, the four .mat
